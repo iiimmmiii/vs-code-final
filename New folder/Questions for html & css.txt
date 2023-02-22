@@ -1,0 +1,3 @@
+How to separate an indiviual 'div' or 'section' for CSS? Since each section had its own div and when I want to customize each one indivually in CSS, the other ones got affected also.
+How to put background color in for each sections?
+How to use images as background?
